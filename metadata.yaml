@@ -28,6 +28,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Verne
     - http://fr.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27309#De-Reis-naar-de-Maan-in-28-dagen-en-12-uren
 gutenberg_issued: '2008-11-21'
 gutenberg_type: Text
 identifiers:
