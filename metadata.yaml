@@ -1,0 +1,47 @@
+_repo: De-Reis-naar-de-Maan-in-28-dagen-en-12-uren_27309
+_version: 0.1.0
+alternative_title: De la Terre à la Lune. Dutch
+contributor:
+  translator:
+    agent_name: Evangeline
+    alias: Oosterzee, Hendrik Marinus Christiaan van
+    birthdate: 1806
+    deathdate: 1877
+    gutenberg_agent_id: '32620'
+    url: http://www.gutenberg.org/2009/agents/32620
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriel
+    - Verne, Júlio
+    - Verne, Jules Gabriël
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+description: ''
+gutenberg_issued: '2008-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27309'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Space flight to the moon -- Fiction'
+- !lcsh 'Manned space flight -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Moon -- Fiction'
+- !lcsh 'Space ships -- Fiction'
+title: De Reis naar de Maan in 28 dagen en 12 uren
+url: http://www.gutenberg.org/ebooks/27309
